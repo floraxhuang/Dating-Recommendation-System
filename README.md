@@ -2,5 +2,6 @@
 
 ### Contents
 
-** requirements.txt: ** Contains the required packages to run the module
-** part 1 ** Contains the part 1 of the project which includes neighborhood-based collaborative filtering and model based collaborative filtering methods
+**requirements.txt:** Contains the required packages to run the module
+
+**part 1:** Contains the part 1 of the project which includes neighborhood-based collaborative filtering and model based collaborative filtering methods
