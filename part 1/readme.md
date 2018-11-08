@@ -8,3 +8,5 @@
 and the HTML file is the final output
 
 **notebooks/Data Exploration.html** : Contains a notebook exploring the features of the data used for the project
+
+The results are documented in **HW2_Report.pdf**
