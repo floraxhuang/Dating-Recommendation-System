@@ -1,0 +1,1 @@
+Download the file at http://www.occamslab.com/petricek/data/ratings.dat and store it here to run the program
