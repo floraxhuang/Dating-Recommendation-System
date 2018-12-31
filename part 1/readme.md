@@ -4,9 +4,9 @@
 
 **notebooks/matrix factorization.ipynb** : Contains a notebook exploring matrix factorization for the project
 
-**notebooks/E4571_HW2_Neighborhood-based models.ipynb** : Contains a notebook exploring neighborhood-based CF for the project
+**notebooks/Neighborhood-based Collaborative Filtering.ipynb** : Contains a notebook exploring neighborhood-based CF for the project
 and the HTML file is the final output
 
-**notebooks/Data Exploration.html** : Contains a notebook exploring the features of the data used for the project
+**notebooks/Data Exploration.pdf** : Contains a notebook exploring the features of the data used for the project
 
-The results are documented in **HW2_Report.pdf**
+The results are documented in **Report.pdf**
