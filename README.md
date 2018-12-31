@@ -1,4 +1,4 @@
-## ating recommendation system built with neighborhood-based collaborative filtering and matrix factorization
+## Dating recommendation system built with neighborhood-based collaborative filtering and matrix factorization
 
 ### Columbia University Data Science Project by Deepak Ravishankar (dr2998), Yu Han Huang (yh3093)
 
